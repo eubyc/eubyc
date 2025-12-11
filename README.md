@@ -11,17 +11,3 @@
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-
-📊 **this month, i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   ███████████████████████▒░   93.41 %
-Python       ████████████░░░░░░░░░░░░░   45.51 %
-HTML         █████████████████████████   99.99 %
-CSS          █████████████████████████   99.99 %
-SQL          █████████████████████████   99.99 %
-Postgres     ████████████░░░░░░░░░░░░░   46.00 %
-```
-
-<!--END_SECTION:waka-->
